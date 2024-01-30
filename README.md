@@ -5,9 +5,9 @@
 <h3 align="center">Data Science Bootcamp Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/7JDUXKX.gif">
 
- 🔭 I’m currently working on **improving map skills in Power BI.**
+ 🔭 I’m currently working on **creating a Power BI portfolio.**
 
-🌱 I’m currently learning **SQL and machine learning theory**
+🌱 I’m currently learning **SQL and machine learning theory.**
 
 👯 I’m looking to collaborate on integrating 2019-2023 data to this Tableau visualization: [2018 New Orleans Safety and Crime 911 Calls](https://public.tableau.com/app/profile/elizabeth.merriman/viz/2018NewOrleansSafetyandCrime911Calls/2018NewOrleansSafetyandCrime911Calls)
 
