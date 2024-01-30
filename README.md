@@ -5,7 +5,7 @@
 <h3 align="center">Data Science Bootcamp Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/7JDUXKX.gif">
 
-- 🔭 I’m currently working on **improving map skills in Power BI.**
+- I’m currently working on **improving map skills in Power BI.**
 
 - 🌱 I’m currently learning **SQL and machine learning theory**
 
