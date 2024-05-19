@@ -2,12 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Somer Merriman.</h1>
-<h3 align="center">Data Science Student</h3>
+<h3 align="center">Data Scientistt</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/7JDUXKX.gif">
 
- 🔭 I’m currently working on **creating a Power BI portfolio.**
+ 🔭 I’m currently working on **completing a Machine Learning Specialization Course.**
 
-🌱 I’m currently learning **SQL and machine learning theory.**
+🌱 I’m currently learning **NLP and image processing.**
 
 👯 I’m looking to collaborate on integrating 2019-2023 data to this Tableau visualization: [2018 New Orleans Safety and Crime 911 Calls](https://public.tableau.com/app/profile/elizabeth.merriman/viz/2018NewOrleansSafetyandCrime911Calls/2018NewOrleansSafetyandCrime911Calls)
 
@@ -32,7 +32,7 @@
 ## 2018 New Orleans Safety and Crime 911 Calls - Tableau
 ![Example Image](https://github.com/somermerriman91/images/blob/main/tableaustill.png?raw=true)
 
-[Visit Tableau](https://public.tableau.com/app/profile/somermerriman/vizzes)
+[View in Tableau Public](https://public.tableau.com/app/profile/somermerriman/vizzes)
 
 
 ## 2023 New Orleans 911 Response Times - Feature Engineering & Matplotlib Library 
