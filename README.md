@@ -31,7 +31,7 @@
 
 ## 2018 New Orleans Safety and Crime 911 Calls - Tableau
 
-![Example Image]([images/example.jpg](https://github.com/somermerriman91/images/blob/main/tableaustill.png))
+![Example Image]([i[mages/example.jpg](https://github.com/somermerriman91/images/blob/main/tableaustill.png](https://github.com/somermerriman91/images/blob/main/tableaustill.png?raw=true)))
 
 ## Global Renewable Energy Dashboard - Power BI
 
