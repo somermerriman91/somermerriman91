@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Somer Merriman.</h1>
-<h3 align="center">Data Scientistt</h3>
+<h3 align="center">Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/7JDUXKX.gif">
 
  🔭 I’m currently working on **completing a Machine Learning Specialization Course.**
