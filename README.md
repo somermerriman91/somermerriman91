@@ -35,11 +35,13 @@
 [View in Tableau Public](https://public.tableau.com/app/profile/somermerriman/vizzes)
 
 
-## 2023 New Orleans 911 Response Times - Feature Engineering & Matplotlib Library 
+## 2023 New Orleans 911 Response Times - Matplotlib Library 
 
 ![Example Image](https://github.com/somermerriman91/images/blob/main/2023NewOrleansCrime.png?raw=true)
 
 [See Jupyter notebook](https://nbviewer.org/github/somermerriman91/Data-Science-Bootcamp-Curriculum-Work/blob/main/CapstoneDataCleaningAndEDA_merged.ipynb)
+
+Feature Engineering / Logarithmic Transformation notebook coming soon!
 
 ## 2020 Global Electricity Sources, Energy Consumption, and GDP
 
