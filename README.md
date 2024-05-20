@@ -39,7 +39,7 @@
 
 ![Example Image](https://github.com/somermerriman91/images/blob/main/matplotlib.dataviz.png?raw=true)
 
-[See Jupyter notebook](https://github.com/somermerriman91/Data-Science-Bootcamp-Curriculum-Work/blob/main/CapstoneDataCleaningAndEDA_merged.ipynb)
+[See Jupyter notebook](https://nbviewer.org/github/somermerriman91/Data-Science-Bootcamp-Curriculum-Work/blob/main/CapstoneDataCleaningAndEDA_merged.ipynb)
 
 
 
