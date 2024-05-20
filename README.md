@@ -41,6 +41,12 @@
 
 [See Jupyter notebook](https://nbviewer.org/github/somermerriman91/Data-Science-Bootcamp-Curriculum-Work/blob/main/CapstoneDataCleaningAndEDA_merged.ipynb)
 
+## 2020 Global Electricity Sources, Energy Consumption, and GDP
+
+![Example Image](https://github.com/somermerriman91/images/blob/main/RenewableEnergy.png?raw=true)
+
+[View in Power BI](https://app.powerbi.com/links/2JciSNFrtd?ctid=b1ced2d7-38fc-4b5c-bcc4-99b81954bea3&pbi_source=linkShare)
+
 
 
 
