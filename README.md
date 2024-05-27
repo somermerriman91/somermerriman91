@@ -11,7 +11,7 @@
 
 👯 I’m looking to collaborate on integrating 2019-2023 data to this Tableau visualization: [2018 New Orleans Safety and Crime 911 Calls](https://public.tableau.com/app/profile/elizabeth.merriman/viz/2018NewOrleansSafetyandCrime911Calls/2018NewOrleansSafetyandCrime911Calls)
 
-💬 Ask me about **how to transition into the Data Science world fearlessly!**
+💬 Ask me about **my upcoming Medium article!**
 
 📫 How to reach me **somer.merriman@gmail.com**
 
