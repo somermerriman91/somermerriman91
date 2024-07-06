@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning about **CNNs and LLMs.**
 
-👯 I’m looking to collaborate on **developing an app for 911 call response using New Orleans crime data model.**
+👯 I’m looking to collaborate on **developing an app for 911 call response using New Orleans crime data modeling.**
 
 💬 Ask me about **my upcoming Medium article!**
 
