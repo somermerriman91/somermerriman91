@@ -5,11 +5,11 @@
 <h3 align="center">Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/7JDUXKX.gif">
 
- 🔭 I’m currently working on **completing a Machine Learning Specialization Course.**
+ 🔭 I’m currently **pursuing a Data / ML Engineering path.**
 
-🌱 I’m currently learning **NLP and image processing.**
+🌱 I’m currently learning about **CNNs and LLMs.**
 
-👯 I’m looking to collaborate on integrating 2019-2023 data to this Tableau visualization: [2018 New Orleans Safety and Crime 911 Calls](https://public.tableau.com/app/profile/elizabeth.merriman/viz/2018NewOrleansSafetyandCrime911Calls/2018NewOrleansSafetyandCrime911Calls)
+👯 I’m looking to collaborate on **developing an app for 911 call response using New Orleans crime data model.**
 
 💬 Ask me about **my upcoming Medium article!**
 
